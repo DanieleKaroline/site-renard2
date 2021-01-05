@@ -10,4 +10,7 @@ Esse site foi desenvolvido como nota final para aprovação e certificação do 
 - MySql
 - API de localização do Google.
 
+<img src="https://media1.tenor.com/images/44cb0055139344b11829bfe2f507992b/tenor.gif?itemid=11224142">
+
+ 
 _Esse trabalho foi feito com dedicação! ;)_
